@@ -130,3 +130,12 @@ main {
   font-family: serif;
   font-size: 1rem;
 }
+
+.app .sort {
+  text-align: center;
+}
+
+.app .form {
+  text-align: center;
+}
+

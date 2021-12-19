@@ -41,6 +41,18 @@
       "description": "Treadmill Parts For Free",
       "image": "./images/treadmill.jpg",
       "location": "East Flatbush"
+    },
+    {
+      "description": "Bag",
+      "image": "https://www.fjallraven.com/491f43/globalassets/catalogs/fjallraven/f2/f237/f23784/f319/7323450464226_fw18_a_kanken_toiletry_bag_21.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80",
+      "location": "Queens",
+      "id": 8
+    },
+    {
+      "description": "Watch",
+      "image": "aaa",
+      "location": "France",
+      "id": 9
     }
   ]
 }
